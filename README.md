@@ -1,8 +1,41 @@
-# React + Vite
+# HooBank React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![App Screenshot](ss.png)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Welcome to HooBank, a sophisticated React application tailored to streamline billing, invoicing, and business management. HooBank empowers users with an intuitive and visually engaging platform, providing an efficient solution for both individual and business financial needs.
+
+
+## Technologies Used
+
+- React
+- JavaScript
+- Tailwind CSS
+
+
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/kratin01/Hoobank.git
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+4. Open the app in your browser:
+
+    ```bash
+    http://localhost:3000
+    ```
