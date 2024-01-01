@@ -4,7 +4,8 @@ import { arrowUp } from "../assets";
 
 const GetStarted = () => (
   <div
-    className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer`}
+    className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer hover:animate-ping`}
+    
   >
     <div
       className={`${styles.flexCenter} bg-primary w-[100%] flex-col h-[100%] rounded-full`}
